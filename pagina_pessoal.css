@@ -1,0 +1,22 @@
+a:hover {
+   text-decoration: underline;
+}
+a {
+    text-decoration: none;
+   
+
+}
+body{
+    background-color: #114499;
+}
+.menu{
+    background-color: #00ff00;
+}
+.menu li {
+    list-style: none;
+}
+.menu ul{
+    display:flex;
+    justify-content: space-around;
+    
+}
